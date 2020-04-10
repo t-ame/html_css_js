@@ -1,0 +1,122 @@
+html{
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+}
+
+body{
+  background-color: #ADD8E6
+}
+
+#img-div{
+  margin-top: 30px;
+}
+
+#main-div{
+  background-color: white;
+  width: 450px;
+  height: 830px;
+  border-radius: 1.5rem;
+  border-bottom-left-radius: 0px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+#main-intro{
+  color: #083e9e;
+  font-weight: 700;
+  font-size: 1.25rem;
+  font-family: U8,sans-serif;
+}
+
+#sub-text{
+  color: #4a5568;
+  font-size: .875rem;
+  font-family: Karla,sans-serif;
+}
+
+.form-label{
+  margin-left: 44px;
+  font-size: .8rem;
+  color: #4a5568;
+  margin-bottom: .25rem;
+  line-height: 2;
+  font-weight: 700;
+  font-family: U8,sans-serif;
+  border: 0 solid #e2e8f0;
+}
+
+.form-input{
+  color: #1a202c;
+  background-color: #edf2f7;
+  font-family: inherit;
+  font-size: 100%;
+  width: 350px;
+  margin: 0;
+  line-height: 2.5;
+  overflow: visible;
+  border-radius: .25rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  padding-right: .3rem;
+  padding-left: .3rem;
+  outline: none;
+  border: 0 solid #e2e8f0;
+}
+
+div.form-input{
+  /* height: 50px;
+  width: 360px; */
+  margin-left: 44px;
+}
+
+form p>button{
+  font-family: inherit;
+  font-size: 100%;
+  width: 350px;
+  margin: 0;
+  /* line-height: 2.5; */
+  border: 0 solid #e2e8f0;
+
+  color: white;
+  margin-top: 20px !important;
+  line-height: 3.5rem;
+  border-radius: .85rem;
+  border-bottom-left-radius: 0px;
+  background-color: #083e9e !important;
+}
+
+#sep-span{
+  background-color: rgb(204, 204, 204);
+  margin-top: 8px;
+  margin-bottom: 8px;
+  align-self: stretch;
+  width: 1px;
+  box-sizing: border-box;
+  line-height: 1.5;
+  border: 0 solid #e2e8f0;
+}
+
+#login-link{
+  margin-top: 25px;
+  margin-bottom: 50px;
+  font-size: .75rem;
+}
+
+.center{
+  text-align: center;
+}
+
+.float_left{
+  float: left;
+}
+
+.mb-2{
+  margin-bottom: 2rem;
+}
+
+.mt-2{
+  margin-top: 2rem;
+}
+
+.mt-3{
+  margin-top: 3rem;
+}
