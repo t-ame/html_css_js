@@ -62,10 +62,10 @@ body{
   border: 0 solid #e2e8f0;
 }
 
-div.form-input{
-  /* height: 50px;
-  width: 360px; */
-  margin-left: 44px;
+select.form-input{
+  height: 50px;
+  width: 360px;
+  /* margin-left: 44px; */
 }
 
 form p>button{
@@ -99,6 +99,8 @@ form p>button{
   margin-top: 25px;
   margin-bottom: 50px;
   font-size: .75rem;
+  color: #083e9e;
+  font-weight: 700;
 }
 
 .center{
