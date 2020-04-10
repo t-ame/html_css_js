@@ -1,3 +1,3 @@
 # html_css_js
 
-[This is a relative link to a nested file](html/task2/index.html)
+[CLICK ON THIS LINK FOR TASK 2 HTML FILE](html/task2/index.html)
